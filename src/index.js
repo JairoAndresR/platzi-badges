@@ -8,6 +8,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+//Import bootstrap styles
+import "bootstrap/dist/css/bootstrap.css";
 // Importar el componente
 import Badge from "./components/Badge";
 
